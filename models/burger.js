@@ -18,4 +18,4 @@ var burgers = sequelize.define("burgers", {
 // Syncs with DB
 Character.sync();
 
-module.exports = Character;
+module.exports = burgers;

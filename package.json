@@ -23,7 +23,8 @@
     "express-handlebars": "^3.0.0",
     "method-override": "^2.3.10",
     "mysql": "^2.15.0",
-    "sequelize": "^4.33.3",
+    "mysql2": "^1.5.2",
+    "sequelize": "^4.33.4",
     "xcode": "^1.0.0"
   },
   "devDependencies": {
